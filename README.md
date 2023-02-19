@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Oscar Silva 👨‍💻 </h1>
+<h1 align="center"> Hello, I'm Oscar Silva </h1>
 
 <h3 align="center">  Full Stack Web Developer </h3> <br>
 
@@ -8,7 +8,7 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
+### About
 -  **Working :**  Web Development :computer:
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones: | Weight Lifting :weight_lifting_man:
