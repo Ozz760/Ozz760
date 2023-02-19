@@ -13,7 +13,7 @@
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones: | Weight Lifting :weight_lifting_man:
 -  **Ask me about :** Anything!, I'm happy to help :wave:
-- **Website : https://cool-frangipane-156b77.netlify.app
+-  **Website : https://cool-frangipane-156b77.netlify.app
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile stats
