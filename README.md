@@ -18,6 +18,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile stats
 
-[![Oscar Silva github stats](https://github-readme-stats.vercel.app/api?username=Ozz760&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Ozz760/github-readme-stats)
+[![Oscar Silvagithub stats](https://github-readme-stats.vercel.app/api?username=Ozz760&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Ozz760/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
