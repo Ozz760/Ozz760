@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Oscar Silva </h1>
 
-<h3 align="center">Software Engineer</h3> <br>
+<h3 align="center">Computer Science @ MiraCosta College</h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/oscarsilva2356/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Oscar_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarsilva/"></a>
